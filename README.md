@@ -1,1 +1,1 @@
-# animated-website"# example_for_animastion" 
+# example_for_animastion 
